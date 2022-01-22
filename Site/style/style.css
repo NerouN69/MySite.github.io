@@ -1,0 +1,16 @@
+p{
+	position: ;
+	padding-top: 1px;
+	display: flex;
+}
+img{
+	max-width: 110%;
+	height: auto;
+	float: right;
+	display: flex;
+}
+div {
+	padding-left: 950px;
+	width: 30%;
+	height: 30%;
+}
